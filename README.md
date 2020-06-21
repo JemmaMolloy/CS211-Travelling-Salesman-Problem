@@ -44,7 +44,7 @@ For the solution string submitted it took around 15 minutes to find, unfortunate
 
 That being said when ran again and running for 30 minutes no better nor equivalent solution had been found and I ran the project again.
 
-# My best path found took 414258 Km, 1018 Hours.
+My best path found took 414258 Km, 1018 Hours.
 
 The implementation of the “Brain” class cut my time by 141 hours when compared to the initial result from the Nearest Neighbor algorithm.
 
